@@ -1,0 +1,24 @@
+<!doctype html>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+  body,h1,p {font-family: "Raleway", sans-serif}
+  body {background-image: url("{{ url_for('static', filename='background.jpeg') }}"); background-size: cover; background-repeat: no-repeat;}
+  body,h1,p {color:white}
+  body,h1,p {padding-bottom: 15px;}
+  body, html {height: 100%}
+</style>
+<body style="background: url_for('static', filename='background.jpeg')">
+  <title>Upload Video for faskmask Compliance detection</title>
+  <h1 style="text-align:center;">Facemask Compliance Detection</h1>
+  <!--<p style="text-align:center;">This facemask detection model is based on Yolov5 object detection model developed by Ultralytics.</p> -->
+  <!--<a href="https://github.com/ultralytics/yolov5">Yolov5 by ultralytics</a>-->
+  <p style="text-align:center;">To use the model, please upload your mp4 video you would like to evaluate. Marked video will be available for download after processing completes. This process may take a few minutes.</p>
+  <p style="text-align:center;">Please use Incognito Mode while downloading files because cache may cause to improper downloads.</p>
+  <form method=post enctype=multipart/form-data style="text-align:center;">
+    <input type=file name=file>
+    <input type=submit value=Upload>
+  </form>
+</body>

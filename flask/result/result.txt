@@ -1,0 +1,6 @@
+Person 2.0 is not compliant 
+Person 1.0 is not compliant 
+Person 3.0 is compliant 
+Person 7.0 is not compliant 
+Person 4.0 is not compliant 
+Overall compliance:0.2
