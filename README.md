@@ -11,7 +11,7 @@ The data can be supplied for personal projects - just send me an email/message a
 
 ## Presentation 
 
-This project was invited to the Berkeley Data Science Show case (judged by various C-Suite representatives from different companies) The slides can be found here  
+This project was invited to the Berkeley Data Science Show case (judged by various C-Suite representatives from different companies) The slides can be found here: https://github.com/mitchellcli/Capstone-ComputerVis-FaceMask-Detection/blob/d3b00d415f656949abb36d9ad3b6752b4c4168f7/Face%20Mask%20Final%20Presentation.pptx
 
 ## Example
 
