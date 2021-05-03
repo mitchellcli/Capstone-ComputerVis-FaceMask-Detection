@@ -5,6 +5,14 @@ As countries open up, ontop of preventing the spread of the virus due to neglige
 
 From there, we are able to provide a compliance score per frame throughout the video - we also added the capability to track unique people throughout the video as well, so we can track a particular person's mask tendency throughout the video. Although this does not enforce compliance, it is a way to provide transparency to customers and allow for surveillance of risk at an individual level. 
 
+## Data 
+The data was compiled from various sources and hand labeled as full mask medical, full mask non medical, partial mask non medical, partial mask medical, face shield, and no mask. 
+The data can be supplied for personal projects - just send me an email/message and I can give you a link to download the labeled data set. 
+
+## Presentation 
+
+This project was invited to the Berkeley Data Science Show case (judged by various C-Suite representatives from different companies) The slides can be found here  
+
 ## Example
 
 ![Alt Text](https://github.com/mitchellcli/Capstone-ComputerVis-FaceMask-Detection/blob/61c50f4f505ed68debf9d6f96ea693173fa583e6/FinalGif.gif)
