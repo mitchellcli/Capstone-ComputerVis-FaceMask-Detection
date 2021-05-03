@@ -7,5 +7,5 @@ From there, we are able to provide a compliance score per frame throughout the v
 
 ## Example
 
-<img src="https://media.giphy.com/media/uEFfsJaTo0hSHI4vkF/giphy.gif" width="40" height="40" />
+<img src="https://github.com/mitchellcli/Capstone-ComputerVis-FaceMask-Detection/blob/61c50f4f505ed68debf9d6f96ea693173fa583e6/FinalGif.gif" width="40" height="40" />
 
