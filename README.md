@@ -7,5 +7,5 @@ From there, we are able to provide a compliance score per frame throughout the v
 
 ## Example
 
-![Alt Text](https://media.giphy.com/media/uEFfsJaTo0hSHI4vkF/giphy.gif)
+<img src="https://media.giphy.com/media/uEFfsJaTo0hSHI4vkF/giphy.gif" width="40" height="40" />
 
